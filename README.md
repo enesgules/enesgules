@@ -30,7 +30,7 @@
  .   .  .   .  +  .   .  .                 . .                        .  .   .  +  .   .  .   .  +  .    
 ```
 
-## If you'd like to chat, you can reach out to me anytime via email at [abdullah.enes.gules@gmail.com](mailto:abdullah.enes.gules@gmail.com) 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/abdullah-enes-gules/) 🔗.  
+## If you'd like to chat, you can reach out to me anytime via email at [abdullah.enes.gules@gmail.com](mailto:abdullah.enes.gules@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/abdullah-enes-gules/)
 
 <!--
 **Abdusshh/Abdusshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
